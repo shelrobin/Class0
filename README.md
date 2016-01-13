@@ -3,3 +3,5 @@
 Class and assignment 0
 
 First day of classes another change
+
+-Shelby Robin
